@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Output / Temporary files
+conversion_log.txt
+*.eml
