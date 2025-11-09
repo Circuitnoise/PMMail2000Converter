@@ -162,5 +162,14 @@ python -m build
 
 ## 🪪 License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it as long as the license notice remains included.
+Copyright (c) 2025 Jens Rosenfeld
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software, to use, copy, modify, and distribute it for **non-commercial purposes only**,
+subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies.
+2. Commercial use, including selling, licensing, or integrating this software into a product
+   or service for profit, is strictly prohibited.
+3. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
